@@ -2,4 +2,4 @@
 * text=auto
 
 *.py linguist-language=python
-*.ipynb linguist-language=python
+*.ipynb linguist-documentation
